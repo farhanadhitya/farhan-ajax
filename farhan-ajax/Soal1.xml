@@ -1,0 +1,42 @@
+<text>
+	<table>
+	<tr>
+		<td> Nama </td>
+		<td> Nim </td>
+		<td> Kelas </td>
+	</tr>
+
+	<tr>
+		<td>M. Farhan Adhitya</td>
+		<td>1755301018</td>
+		<td>1 TI C</td>
+	</tr>
+
+	<tr>
+		<td>Aviecenna Yudhistira</td>
+		<td>1755301045</td>
+		<td>1 TI C</td>
+	</tr>
+
+
+<tr>
+		<td>Gilang Armipajasa</td>
+		<td>1755301025</td>
+		<td>1 TI C</td>
+	</tr>
+
+
+<tr>
+		<td>Antonio Putra Trigustoro</td>
+		<td>1755301055</td>
+		<td>1 TI C</td>
+	</tr>
+
+
+<tr>
+		<td>As Daniel</td>
+		<td>1755301066</td>
+		<td>1 TI C</td>
+	</tr>
+</table>
+</text>
