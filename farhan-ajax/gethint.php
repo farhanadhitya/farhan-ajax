@@ -1,10 +1,10 @@
 <?php
 // array with names
-$a[] = "Farhan" ;
-$a[] = "Avi";
-$a[] = "Kurnia";
-$a[] = "Antonio";
-$a[] = "Alif";
+$a[] = "Balmond" ;
+$a[] = "Lesley";
+$a[] = "Argus";
+$a[] = "Saber";
+$a[] = "Lord";
 
 //get the q parameter from URL
 $q = $_REQUEST["q"];
